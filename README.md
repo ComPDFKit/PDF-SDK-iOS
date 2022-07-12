@@ -6,7 +6,11 @@ ComPDFKit PDF SDK for iOS is a robust PDF library for developers who need to dev
 
 ## 1.1 ComPDFKit PDF SDK
 
-ComPDFKit PDF SDK consists of two elements.
+ComPDFKit PDF SDK consists of two elements as shown in the following picture.
+
+![Alt text](https://github.com/ComPDFKit/PDF-SDK-iOS/blob/main/image-ios/1.png)
+
+The two elements for ComPDFKit PDF SDK:
 
 - **PDF Core API**
 
