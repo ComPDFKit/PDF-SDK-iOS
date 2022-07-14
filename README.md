@@ -68,3 +68,16 @@ The PDF View is a utility class that provides the functionality for developers t
 ## 1.3 License
 
 ComPDFKit PDF SDK is a commercial SDK, which requires a license to grant developer permission to release their apps. Each license is only valid for one bundle ID in development mode. Other flexible licensing options are also supported, please contact [our marketing team](mailto:support@compdf.com) to know more.  However, any documents, sample code, or source code distribution from the released package of ComPDFKit to any third party is prohibited.
+
+# 2 Get Started
+
+It is easy to embed ComPDFKit in your iOS app with a few lines of Objective-C code. Takes just a few minutes and gets started. 
+
+The following sections introduce the structure of the installation package, how to run a demo, and how to make an iOS app in Objective-C with ComPDFKit PDF SDK. 
+
+## 2.1 Requirements
+
+ComPDFKit requires the latest stable version of Xcode available at the time the release was made. This is a hard requirement, as each version of Xcode is bundled with a specific version of the iOS Base SDK, which often defines how UIKit and various other frameworks behave. 
+
+- iOS 10.0 or higher.
+- Xcode 12.0 or newer for Objective-C or Swift.
