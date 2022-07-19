@@ -81,3 +81,21 @@ ComPDFKit requires the latest stable version of Xcode available at the time the 
 
 - iOS 10.0 or higher.
 - Xcode 12.0 or newer for Objective-C or Swift.
+
+## 2.2 iOS Package Structure
+
+The package of ComPDFKit PDF SDK for iOS includes the following files as shown in Figure 2-1:
+
+- **ComPDFKit.xcframework** - Include the ComPDFKit dynamic library (arm64_armv7, x86_64-simulator) and associated header files.
+- **PDFViewer** - A folder containing iOS sample projects.
+- **PDFViewer-Swift** - A folder containing Swift iOS sample projects.
+- **api_reference_ios** - API reference.
+- **developer_guide_ios.pdf** - Developer guide.
+- **release_notes.txt** - Release information.
+- **legal.txt** - Legal and copyright information.
+
+![Alt text](https://github.com/ComPDFKit/PDF-SDK-iOS/blob/main/image-ios/2-1.png)
+
+<p align="center">
+Figure 2-1
+</p>
