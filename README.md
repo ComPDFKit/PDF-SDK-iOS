@@ -99,3 +99,7 @@ The package of ComPDFKit PDF SDK for iOS includes the following files as shown i
 <p align="center">
 Figure 2-1
 </p>
+
+## 2.3 How to run a demo
+
+ComPDFKit PDF SDK for iOS provides one demo in Objective-C for developers to learn how to call the SDK on iOS. You can find them in the ***"PDFViewer"*** folder. In this guide, it takes the "Objective-C" demo as an example to show how to run it in Xcode.
