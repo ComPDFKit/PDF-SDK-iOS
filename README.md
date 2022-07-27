@@ -107,3 +107,5 @@ ComPDFKit PDF SDK for iOS provides one demo in Objective-C for developers to lea
 1. Double-click the ***"PDFViewer.xcodeproj"*** found in the ***"PDFViewer"*** folder to open the demo in Xcode.
 
 2. Click on ***"Product -> Run"*** to run the demo on an iOS device. In this guide, an iPhone 7 Plus device will be used as an example. After building the demo successfully, on the start screen, click the ***"PDF32000_2008.pdf"*** document, and then it will be opened and displayed.
+
+![Alt text](https://github.com/ComPDFKit/PDF-SDK-iOS/blob/main/image-ios/2-1-1.png)
